@@ -1,0 +1,5 @@
+
+idf_component_register(	SRCS "my_print2.c"
+						INCLUDE_DIRS "include"
+					  )
+                   
