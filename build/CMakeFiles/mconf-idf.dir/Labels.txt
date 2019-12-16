@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/gustavosinbandera1/LOCHA/hello_world/build/CMakeFiles/mconf-idf
+/home/gustavosinbandera1/LOCHA/hello_world/build/CMakeFiles/mconf-idf.rule
+/home/gustavosinbandera1/LOCHA/hello_world/build/CMakeFiles/mconf-idf-complete.rule
+/home/gustavosinbandera1/LOCHA/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/gustavosinbandera1/LOCHA/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/gustavosinbandera1/LOCHA/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/gustavosinbandera1/LOCHA/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/home/gustavosinbandera1/LOCHA/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/gustavosinbandera1/LOCHA/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/gustavosinbandera1/LOCHA/hello_world/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule

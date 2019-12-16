@@ -1,0 +1,4 @@
+idf_component_register(SRCS "Hex.cpp" 
+                            "Sema.cpp"
+                    INCLUDE_DIRS "include"
+                    )
